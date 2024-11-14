@@ -5,9 +5,9 @@ A small demo repo of different benchmarking tools (deno 2, mitata, vitest) to ac
 ### setup
 
 you will need:
-pnpm
-node >= v22
-deno  >= v2
+- pnpm
+- node >= v22
+- deno  >= v2
 
 start by installing the npm dependencies:
 ```zsh
