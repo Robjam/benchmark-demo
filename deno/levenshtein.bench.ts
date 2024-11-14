@@ -1,5 +1,5 @@
 import { distance as fastestlevenshtein } from 'npm:fastest-levenshtein';
-import { levenshteinDistance } from '../naiveLevenshtein.ts';
+import { levenshteinDistance } from '../naiveLevenshtein.mjs';
 
 const corpus = 'CIショウヒン'
 const query = 'ショウヒン'
